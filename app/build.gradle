@@ -6,7 +6,7 @@ android {
     compileSdkVersion androidVersions.compileSdkVersion
 
     defaultConfig {
-        applicationId "com.mapbox.android.gestures.testapp"
+        applicationId "com.tomcan.android.gestures.testapp"
         minSdkVersion androidVersions.minSdkVersion
         targetSdkVersion androidVersions.targetSdkVersion
         versionCode 1
